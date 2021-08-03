@@ -13,3 +13,4 @@ pickleshare
 wavio
 sounddevice
 matplotlib
+libportaudio2
