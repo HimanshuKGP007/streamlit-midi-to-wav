@@ -13,4 +13,3 @@ pickleshare
 wavio
 sounddevice
 matplotlib
-libasound-dev
