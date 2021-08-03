@@ -11,5 +11,5 @@ numpy
 pandas
 pickleshare
 wavio
-sounddevice
+sounddevice==0.4.1
 matplotlib
