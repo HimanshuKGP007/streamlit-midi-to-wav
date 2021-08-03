@@ -6,3 +6,10 @@ requests
 scipy
 soundfile 
 streamlit
+librosa
+numpy
+pandas
+pickleshare
+wavio
+sounddevice
+matplotlib
